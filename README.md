@@ -1,6 +1,11 @@
 # PacmanProgHoussay
 # Juego de PacMan
-
+#Integrantes:
+Ignacio Lescano
+Ana Luz Nieto
+Martin Soria
+Nahuel Agüero
+#Instituto: Dr. Bernardo Houssay
 ## Resumen
 Este repositorio contiene una implementación sencilla del clásico juego arcade PacMan usando HTML, CSS y JavaScript. El juego presenta al icónico personaje PacMan navegando por un laberinto, comiendo bolitas y evitando fantasmas.
 
